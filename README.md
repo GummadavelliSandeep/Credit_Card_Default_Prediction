@@ -1,4 +1,4 @@
-# Credit-Card-Default-Prediction
+# Credit_Card_Default_Prediction
 
  
 ## Overview
