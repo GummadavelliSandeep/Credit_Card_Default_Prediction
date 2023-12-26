@@ -11,7 +11,7 @@ Deployed in Streamlit Cloud.
 
 ## Link to the application :
 *****************************
-https://credit-card-default-prediction-wioo.onrender.com/
+[https://credit-card-default-prediction-wioo.onrender.com/](https://creditcarddefaultprediction.streamlit.app/)
 
 ## Dataset Information
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card holders
